@@ -1,4 +1,4 @@
-# para rodar esse arquivo: 
+# Para rodar esse arquivo: 
 # python -m streamlit run src/main.py
 
 """
